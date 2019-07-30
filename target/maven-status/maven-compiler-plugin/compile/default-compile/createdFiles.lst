@@ -1,0 +1,17 @@
+com/trackstore/store/model/Playlist.class
+com/trackstore/store/model/AuditModel.class
+com/trackstore/store/model/Track.class
+com/trackstore/store/controller/ArtistController.class
+com/trackstore/store/repository/ArtistRepository.class
+com/trackstore/store/exception/handler/ResourceNotFoundExceptionHandler.class
+com/trackstore/store/service/ArtistService.class
+com/trackstore/store/repository/AlbumRepository.class
+com/trackstore/store/model/Genre.class
+com/trackstore/store/exception/handler/ErrorDetails.class
+com/trackstore/store/exception/ResourceNotFoundException.class
+com/trackstore/store/StoreApplication.class
+com/trackstore/store/model/MediaType.class
+com/trackstore/store/controller/AlbumController.class
+com/trackstore/store/service/impl/ArtistServiceImpl.class
+com/trackstore/store/model/Artist.class
+com/trackstore/store/model/Album.class

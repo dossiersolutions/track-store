@@ -1,0 +1,14 @@
+/home/dusan/Documents/Projects/track-store/src/main/java/com/trackstore/store/controller/ArtistApiController.java
+/home/dusan/Documents/Projects/track-store/src/main/java/com/trackstore/store/service/impl/ArtistServiceImpl.java
+/home/dusan/Documents/Projects/track-store/src/main/java/com/trackstore/store/model/Genre.java
+/home/dusan/Documents/Projects/track-store/src/main/java/com/trackstore/store/model/Playlist.java
+/home/dusan/Documents/Projects/track-store/src/main/java/com/trackstore/store/model/Track.java
+/home/dusan/Documents/Projects/track-store/src/main/java/com/trackstore/store/exception/handler/ResourceNotFoundExceptionHandler.java
+/home/dusan/Documents/Projects/track-store/src/main/java/com/trackstore/store/model/MediaType.java
+/home/dusan/Documents/Projects/track-store/src/main/java/com/trackstore/store/repository/ArtistRepository.java
+/home/dusan/Documents/Projects/track-store/src/main/java/com/trackstore/store/exception/ResourceNotFoundException.java
+/home/dusan/Documents/Projects/track-store/src/main/java/com/trackstore/store/service/ArtistService.java
+/home/dusan/Documents/Projects/track-store/src/main/java/com/trackstore/store/StoreApplication.java
+/home/dusan/Documents/Projects/track-store/src/main/java/com/trackstore/store/model/Artist.java
+/home/dusan/Documents/Projects/track-store/src/main/java/com/trackstore/store/model/Album.java
+/home/dusan/Documents/Projects/track-store/src/main/java/com/trackstore/store/model/AuditModel.java
