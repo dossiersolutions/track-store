@@ -58,6 +58,7 @@ CREATE TABLE "track"
 /*******************************************************************************
    Create Foreign Keys
 ********************************************************************************/
+
 ALTER TABLE "album" ADD CONSTRAINT "fk__album_artist_id"
     FOREIGN KEY ("artist_id") REFERENCES "artist" ("id") ON DELETE NO ACTION ON UPDATE NO ACTION;
 
